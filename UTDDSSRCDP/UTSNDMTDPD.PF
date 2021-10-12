@@ -1,0 +1,25 @@
+      *****************************************************************
+/*STD *  PFBASE                                                       *
+/*EXS *  PF_STD                                                       *
+      *****************************************************************
+      *                                                               *
+      *  Midas - Utilities Module                                     *
+      *                                                               *
+      *  PF/UTSNDMTDPD - Midas API Output Received from Queue         *
+      *                                                               *
+      *  (c) Misys International Banking Systems Ltd. 2001            *
+      *                                                               *
+      *  Last Amend No. CIR003             Date 13Sep00               *
+      *                                                               *
+      *---------------------------------------------------------------*
+      *                                                               *
+      *  CIR003 - FRA/IRS Pay/Receive Messages for Swaps              *
+      *                                                               *
+      *****************************************************************
+     A                                      REF(MFRFL)
+      *
+     A          R SNDMTDTA                  TEXT('(c) Misys International +
+     A                                      Banking Systems Ltd. +
+     A                                      2012')
+      *
+     A            MTAGDTA     6000A

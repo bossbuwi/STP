@@ -1,0 +1,22 @@
+      *****************************************************************
+/*STD *  PGMBASE                                                      *
+/*EXI *  MODULE(UT000099)                                             *
+/*EXI *  ACTGRP(*CALLER)                                              *
+      *****************************************************************
+      *                                                               *
+      *  Midas - Utilities Module                                     *
+      *                                                               *
+      *  UT000099 - Send MT Data to an MQ Series Queue                *
+      *                                                               *
+      *  Function: This program binds the modules that send MT data   *
+      *            to an MQ Series Queue from an AS400                *
+      *                                                               *
+      *  (c) Misys International Banking Systems Ltd. 2012            *
+      *                                                               *
+      *  Last Amend No. CSW212             Date 03May12               *
+      *                                                               *
+      *---------------------------------------------------------------*
+      *                                                               *
+      *  CSW212 - SWIFT 2012 Changes                                  *
+      *                                                               *
+      *****************************************************************
